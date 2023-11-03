@@ -30,13 +30,8 @@ Incase of discrepancy please raise an issue or feel free to send pull requests.
 
 
 ## How to run?
-This code is written in python3.6.
-
 Simply run
 ``` 
 python main.py
 
-# or depending upon your config
-
-python3 main.py
 ```
