@@ -1,6 +1,12 @@
 # A Bike Rental System 
 A full fledged bike rental system implemented in Python using object oriented programming.
 
+## How to run?
+Simply run
+``` 
+python main.py
+
+```
 ## Customers can 
 
 * See available bikes on the shop
@@ -29,9 +35,4 @@ Incase of discrepancy please raise an issue or feel free to send pull requests.
 
 
 
-## How to run?
-Simply run
-``` 
-python main.py
 
-```
